@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Frank Vasek
 - 👀 open to work as a Jr Web dev
 - 🌱 currently studying @ Springboard Software Engineering Career Track
-- 📫 frnk05vas@zoho.com
+- 📫 frnkvsk@gmail.com
 - 📞 360-915-3716
 - ⬆️ www.linkedin.com/in/frankvasek/
 - 🏙️ Washington State
